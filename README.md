@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Jonathan, i'm based in Växjö, Sweden. I'm currently studying to become a Software Engineer.
+My name is Jonathan, i'm based in Växjö, Sweden 🇸🇪. I'm currently studying to become a Software Engineer. 🖥️
 
-This will be my workspace for school work, as well as personal projects in the future.
+This will be my workspace for school work, as well as personal projects in the future. 🌟
 <!--
 **jnjuniper/jnjuniper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
